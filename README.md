@@ -9,10 +9,11 @@ Adicione o código fonte do seu joguinho dentro da pasta específica e já era!
 # Linguagens já adicionadas
 - C
 - Java
+- Python
 
 
 # Modalidades atuais
-- Cara ou Coroa
+- Moeda
 - Jogo da Forca
 
 
