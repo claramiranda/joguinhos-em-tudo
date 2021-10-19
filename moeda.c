@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-int coin_toss()
+int coin_toss();
 
 int main(){
     int c;
