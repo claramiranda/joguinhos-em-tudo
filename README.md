@@ -6,6 +6,15 @@ Vamos criar um repositório de exemplos de implementação de joguinhos... tipo 
 # Como colaborar
 Adicione o código fonte do seu joguinho dentro da pasta específica e já era!
 
+# Linguagens já adicionadas
+- C
+- Java
+
+
+# Modalidades atuais
+- Cara ou Coroa
+- Jogo da Forca
+
 
 Vamo que vamo galera!
 Que os jogos comecem!
