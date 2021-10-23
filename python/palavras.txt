@@ -1,0 +1,6 @@
+morango
+banana
+batata
+aaaaaaaa
+System.out.println('palavra')
+manga
