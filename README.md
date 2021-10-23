@@ -15,6 +15,8 @@ Adicione o código fonte do seu joguinho dentro da pasta específica e já era!
     Moeda (cara ou coroa)
     Jogo da Forca
     Pong
+    Adivinhação
+    Jo-Ken-Po
 
 
 
