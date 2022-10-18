@@ -1,0 +1,16 @@
+E:\Projetos\joguinhos-em-tudo\c#\Snake\MultiThreadingSnake\bin\Release\Snake.exe.config
+E:\Projetos\joguinhos-em-tudo\c#\Snake\MultiThreadingSnake\bin\Release\Snake.exe.manifest
+E:\Projetos\joguinhos-em-tudo\c#\Snake\MultiThreadingSnake\bin\Release\Snake.application
+E:\Projetos\joguinhos-em-tudo\c#\Snake\MultiThreadingSnake\bin\Release\Snake.exe
+E:\Projetos\joguinhos-em-tudo\c#\Snake\MultiThreadingSnake\bin\Release\Snake.pdb
+E:\Projetos\joguinhos-em-tudo\c#\Snake\MultiThreadingSnake\obj\Release\Snake.csproj.AssemblyReference.cache
+E:\Projetos\joguinhos-em-tudo\c#\Snake\MultiThreadingSnake\obj\Release\Snake.csproj.SuggestedBindingRedirects.cache
+E:\Projetos\joguinhos-em-tudo\c#\Snake\MultiThreadingSnake\obj\Release\MultiThreadingSnake.initialScreen.resources
+E:\Projetos\joguinhos-em-tudo\c#\Snake\MultiThreadingSnake\obj\Release\MultiThreadingSnake.Main.resources
+E:\Projetos\joguinhos-em-tudo\c#\Snake\MultiThreadingSnake\obj\Release\Snake.Properties.Resources.resources
+E:\Projetos\joguinhos-em-tudo\c#\Snake\MultiThreadingSnake\obj\Release\Snake.csproj.GenerateResource.cache
+E:\Projetos\joguinhos-em-tudo\c#\Snake\MultiThreadingSnake\obj\Release\Snake.csproj.CoreCompileInputs.cache
+E:\Projetos\joguinhos-em-tudo\c#\Snake\MultiThreadingSnake\obj\Release\Snake.exe.manifest
+E:\Projetos\joguinhos-em-tudo\c#\Snake\MultiThreadingSnake\obj\Release\Snake.application
+E:\Projetos\joguinhos-em-tudo\c#\Snake\MultiThreadingSnake\obj\Release\Snake.exe
+E:\Projetos\joguinhos-em-tudo\c#\Snake\MultiThreadingSnake\obj\Release\Snake.pdb
