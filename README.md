@@ -9,6 +9,7 @@ Adicione o código fonte do seu joguinho dentro da pasta específica e já era!
 # Linguagens já adicionadas
 - C
 - Python
+- C#
 
 
 # Modalidades atuais
@@ -17,6 +18,7 @@ Adicione o código fonte do seu joguinho dentro da pasta específica e já era!
     Pong
     Adivinhação
     Jo-Ken-Po
+    Snake
 
 
 
